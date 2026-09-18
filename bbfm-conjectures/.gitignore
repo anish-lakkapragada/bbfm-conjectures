@@ -1,0 +1,12 @@
+/.lake/
+/.verification/
+*.olean
+*.ilean
+*.olean.private
+*.olean.server
+*.ir
+*.c
+.DS_Store
+__pycache__/
+/supplement/
+/bbfm-conjectures.pdf
